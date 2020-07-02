@@ -1,0 +1,12 @@
+body{
+    margin: 2em auto 0em auto;
+    width: 80%;
+}
+
+#container{
+    column-count: 3;
+}
+
+#container img{
+    width: 100%;
+}
